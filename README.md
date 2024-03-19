@@ -21,6 +21,9 @@ The following points describe the steps taken to detect frauds in the dataset gi
 5. Hyperparamter tuninng has been carried out to understand the optimal paramters 
 6. Model validation has been done to understand the performance of the model.
 
+# Dataset to be used 
+
+https://drive.google.com/drive/folders/15kl-DQk3iLtmm04EMPcL37-1CLAXtNJv?usp=sharing
 
 # Conclusion
 
@@ -37,6 +40,7 @@ I have performed a through analysis of the data given and understand the followi
 
 6. SMOTE and RFC give a highest accuracy of 84% on the model.  
 7. I have evaluted the model using confusion matrix and ROC 
+8. The model has been deployed using streamlit. 
 
 ## Authors
 
